@@ -3,7 +3,7 @@
 - 🌱 I’m also perfectional in SQL for data analysis. Hot Nerd passion in SQLite and MySQL.
 - 💞️ I’m looking to collaborate on groups, and I excel as both a leader and a supportive team meamber.
 - 📫 How to reach me（联系方式）Wechat: C_N_O_F_Ne_Shiv  ,  Email(邮箱) ：lxyxsc999@163.com  
-- Languages: English(Excellent); Chinese (Excellent), German (B1)
+- Languages: English(Excellent); Chinese (Excellent), German (B2)
 
 - 👋 Hi, I’m @LongXinyun-bit
 - 👀 我混迹于CS世界，可以做前端、后端、全栈开发和数据分析的岗位工作。
