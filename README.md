@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @LongXinyun-bit
-- 👀 I’m interested in CS industry, particular in front-end, back-end, full-stack development, and data analytics.
+- 👀 I’m interested in CS industry, particular in front-end, back-end, full-stack development, and data analytics.（Dying to learn more knowledge, job JD and framework in LLM）
 - 🌱 I’m also perfectional in SQL for data analysis. Hot Nerd passion in SQLite and MySQL.
 - 💞️ I’m looking to collaborate on groups, and I excel as both a leader and a supportive team meamber.
 - 📫 How to reach me（联系方式）Wechat: C_N_O_F_Ne_Shiv  ,  Email(邮箱) ：lxyxsc999@163.com  
 - Languages: English(Excellent); Chinese (Excellent), German (B2)
 
 - 👋 Hi, I’m @LongXinyun-bit
-- 👀 我混迹于CS世界，可以做前端、后端、全栈开发和数据分析的岗位工作。
+- 👀 我混迹于CS世界，可以做前端、后端、全栈开发和数据分析的岗位工作。（目前想学习和了解更多大模型的知识框架和工作内容）
 - 🌱 还擅长用SQL做数据分析，SQL高级函数背得比我家有多少家具还要清楚，写的查询干净又高效！
 - 💞️ 喜欢和团队一起搞事情，能当领导，也能当靠谱的队友。
 - 📫 联系我：WeChat: C_N_O_F_Ne_Shiv | Email: lxyxsc999@163.com
